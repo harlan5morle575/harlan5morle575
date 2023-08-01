@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @harlan5morle575
+- 👀 I’m interested in web. I’m currently learning TypeScript.
+- 🌱 Eager to enhance JavaScript development through type safety.
